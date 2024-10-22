@@ -1,0 +1,156 @@
+[
+    {
+      "id": 1,
+      "recipeImage": "https://images.unsplash.com/photo-1546069901-eacef0df6022",
+      "recipeName": "Chicken Basil Stir Fry",
+      "shortDescription": "A quick and delicious chicken stir fry with fresh basil and mushrooms.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom"
+      ],
+      "preparingTime": 30,
+      "calories": 320
+    },
+    {
+      "id": 2,
+      "recipeImage": "https://images.pexels.com/photos/12918198/pexels-photo-12918198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "recipeName": "Spaghetti Carbonara",
+      "shortDescription": "Classic Italian pasta dish with a creamy sauce, pancetta, and parmesan.",
+      "ingredients": [
+        "200 g spaghetti",
+        "100 g pancetta",
+        "2 eggs",
+        "50 g parmesan cheese",
+        "2 cloves garlic"
+      ],
+      "preparingTime": 25,
+      "calories": 400
+    },
+    {
+      "id": 3,
+      "recipeImage": "https://images.pexels.com/photos/248509/pexels-photo-248509.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipeName": "Vegan Quinoa Salad",
+      "shortDescription": "A healthy and refreshing salad packed with quinoa and fresh vegetables.",
+      "ingredients": [
+        "150 g quinoa",
+        "1 cucumber",
+        "1 bell pepper",
+        "100 g cherry tomatoes",
+        "50 g spinach",
+        "2 tbsp olive oil"
+      ],
+      "preparingTime": 20,
+      "calories": 280
+    },
+    {
+      "id": 4,
+      "recipeImage": "https://images.pexels.com/photos/7613562/pexels-photo-7613562.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipeName": "Beef Tacos",
+      "shortDescription": "Spicy ground beef wrapped in a soft taco shell with fresh toppings.",
+      "ingredients": [
+        "400 g ground beef",
+        "100 g cheddar cheese",
+        "8 taco shells",
+        "1 avocado",
+        "50 g lettuce",
+        "100 g salsa"
+      ],
+      "preparingTime": 35,
+      "calories": 500
+    },
+    {
+      "id": 5,
+      "recipeImage": "https://images.pexels.com/photos/4955257/pexels-photo-4955257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipeName": "Mango Smoothie",
+      "shortDescription": "A tropical and refreshing smoothie with ripe mango and coconut milk.",
+      "ingredients": [
+        "2 ripe mangoes",
+        "200 ml coconut milk",
+        "1 tbsp honey",
+        "50 ml orange juice",
+        "Ice cubes"
+      ],
+      "preparingTime": 10,
+      "calories": 220
+    },
+    {
+      "id": 6,
+      "recipeImage": "https://images.pexels.com/photos/7663393/pexels-photo-7663393.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipeName": "Fluffy Pancakes",
+      "shortDescription": "Light and fluffy pancakes perfect for breakfast, served with maple syrup.",
+      "ingredients": [
+        "200 g flour",
+        "2 eggs",
+        "300 ml milk",
+        "50 g butter",
+        "2 tbsp sugar",
+        "1 tsp baking powder"
+      ],
+      "preparingTime": 15,
+      "calories": 350
+    },
+    {
+      "id": 7,
+      "recipeImage": "https://images.pexels.com/photos/7092430/pexels-photo-7092430.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipeName": "Veggie Pizza",
+      "shortDescription": "Homemade pizza topped with fresh vegetables and mozzarella cheese.",
+      "ingredients": [
+        "300 g pizza dough",
+        "100 g mozzarella cheese",
+        "50 g bell peppers",
+        "50 g onions",
+        "50 g mushrooms",
+        "Tomato sauce"
+      ],
+      "preparingTime": 45,
+      "calories": 600
+    },
+    {
+      "id": 8,
+      "recipeImage": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+      "recipeName": "Chocolate Cake",
+      "shortDescription": "Rich and moist chocolate cake with a smooth chocolate frosting.",
+      "ingredients": [
+        "250 g flour",
+        "200 g sugar",
+        "100 g cocoa powder",
+        "2 eggs",
+        "100 g butter",
+        "200 ml milk"
+      ],
+      "preparingTime": 60,
+      "calories": 450
+    },
+    {
+      "id": 9,
+      "recipeImage": "https://images.pexels.com/photos/3763808/pexels-photo-3763808.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipeName": "Sushi Roll",
+      "shortDescription": "Traditional Japanese sushi rolls with rice, seaweed, and fresh fish.",
+      "ingredients": [
+        "200 g sushi rice",
+        "100 g fresh salmon",
+        "4 sheets of seaweed",
+        "1 cucumber",
+        "Soy sauce"
+      ],
+      "preparingTime": 50,
+      "calories": 300
+    },
+    {
+      "id": 10,
+      "recipeImage": "https://images.pexels.com/photos/2092903/pexels-photo-2092903.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "recipeName": "Caesar Salad",
+      "shortDescription": "Crisp romaine lettuce with a creamy Caesar dressing, croutons, and parmesan.",
+      "ingredients": [
+        "200 g romaine lettuce",
+        "50 g croutons",
+        "50 g parmesan cheese",
+        "100 g Caesar dressing",
+        "1 chicken breast"
+      ],
+      "preparingTime": 20,
+      "calories": 400
+    }
+  ]
